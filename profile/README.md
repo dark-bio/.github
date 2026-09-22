@@ -11,7 +11,7 @@ Ark I is not on general sale yet, but you can contact us at [founders@dark.bio](
 ### Quickstart
 
 | Repository | Purpose |
-| :-- | :-- |
+| :-: | :-- |
 | [emulator](https://github.com/dark-bio/emulator) | Emulated Ark enclave for development and demos. It is not a secure vault |
 | [cli](https://github.com/dark-bio/cli) | Command line interface to Ark enclaves, for people, scripting and AI agents |
 | [examples](https://github.com/dark-bio/examples) | Worked examples for writing apps that run on an Ark, with fixtures to run them |
