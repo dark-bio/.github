@@ -24,6 +24,10 @@ Ark I is not on general sale yet, but you can contact us at [founders@dark.bio](
 | [wire-rs](https://github.com/dark-bio/wire-rs) | Encrypted, request oriented transport between an Ark and its host | [![crates.io](https://img.shields.io/crates/v/darkbio-wire.svg)](https://crates.io/crates/darkbio-wire) |
 | [trust-rs](https://github.com/dark-bio/trust-rs) | Dark Bio ecosystem public keys and roots of trust from Rust | [![crates.io](https://img.shields.io/crates/v/darkbio-trust.svg)](https://crates.io/crates/darkbio-trust) |
 | [cobs-rs](https://github.com/dark-bio/cobs-rs) | Fast, allocation-free framing codec used by wire-rs | [![crates.io](https://img.shields.io/crates/v/darkbio-cobs.svg)](https://crates.io/crates/darkbio-cobs) |
+| [clock-rs](https://github.com/dark-bio/clock-rs) | Virtual clock for testing blocking code | [![crates.io](https://img.shields.io/crates/v/darkbio-clock.svg)](https://crates.io/crates/darkbio-clock) |
+
+| Repository | Purpose | Package |
+| :-: | :-- | :-: |
 | [crypto-rs](https://github.com/dark-bio/crypto-rs) | Post-quantum cryptographic primitives used in the protocols | [![crates.io](https://img.shields.io/crates/v/darkbio-crypto.svg)](https://crates.io/crates/darkbio-crypto) |
 | [crypto-go](https://github.com/dark-bio/crypto-go) | The same primitives implemented in Go | [![go](https://img.shields.io/github/v/tag/dark-bio/crypto-go?label=go)](https://pkg.go.dev/github.com/dark-bio/crypto-go) |
 | [crypto-fl](https://github.com/dark-bio/crypto-fl) | The Rust primitives wrapped for Flutter | [![pub](https://img.shields.io/pub/v/darkbio_crypto.svg)](https://pub.dev/packages/darkbio_crypto) |
